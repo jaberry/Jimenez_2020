@@ -1,2 +1,2 @@
-# Jimenez_et_al_2020
+# Jimenez_2020
 Code associated with Jimenez et al., 2020
